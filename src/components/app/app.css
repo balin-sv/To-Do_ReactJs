@@ -1,0 +1,12 @@
+.main-app-wrap {
+  margin: 0 auto;
+  margin-top: 5%;
+  width: 50%;
+}
+
+.flex-row-wrap {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: baseline;
+}
